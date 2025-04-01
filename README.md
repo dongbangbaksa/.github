@@ -12,19 +12,19 @@
     <td align="center"><strong>회원가입 및 로그인</strong></td>
   </tr>
   <tr>
-    <td align="center"><img width="100%" alt="Sign up and Login" src=""></td>
+    <td align="center"><img width="90%" alt="Sign up and Login" src="https://github.com/user-attachments/assets/660f60de-da9b-4476-b19c-d1df75e940cd"></td>
   </tr>
   <tr>
     <td align="center"><strong>예약</strong></td>
   </tr>
   <tr>
-    <td align="center"><img width="100%" alt="Reservation" src=""></td>
+    <td align="center"><img width="90%" alt="Reservation" src="https://github.com/user-attachments/assets/862f1a37-6674-41fe-ae27-d3516749e918"></td>
   </tr>
   <tr>
     <td align="center"><strong>공지사항 게시판</strong></td>
   </tr>
   <tr>
-    <td align="center"><img width="100%" alt="Board" src=""></td>
+    <td align="center"><img width="90%" alt="Board" src="https://github.com/user-attachments/assets/7ea848bc-31ed-4b94-8993-f8adc559b5ac"></td>
   </tr>
 </table>
 
